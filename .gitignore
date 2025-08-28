@@ -1,0 +1,6 @@
+data/
+epoch-images/
+images/
+*.png
+*.pkl
+.DS_Store
