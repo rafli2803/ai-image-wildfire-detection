@@ -9,7 +9,7 @@ This research focuses on early wildfire detection using AI-based image classific
   This PDF details the problem statement, dataset preparation, model architectures, experimental results, and conclusions. It is the primary source for understanding the scientific background and findings of this project.
 
 - **Code Implementation:**  
-  The main code for data processing, model training, evaluation, and visualization is provided in [classifier.ipynb](ai-image-wildfire-detection/classifier.ipynb).  
+  The main code for data processing, model training, evaluation, and visualization is provided in [classifier.ipynb](classifier.ipynb).  
   This Jupyter notebook walks through:
   - Downloading and preparing the dataset
   - Removing duplicate images and cleaning data
@@ -23,7 +23,7 @@ This research focuses on early wildfire detection using AI-based image classific
    Start with the [PDF file](Early%20Wildfire%20Detection%20Using%20AI-Based%20Image%20Classification.pdf) to understand the motivation, approach, and results.
 
 2. **Run the Code:**  
-   Open [classifier.ipynb](ai-image-wildfire-detection/classifier.ipynb) to explore the code, reproduce experiments, and visualize results. The notebook is organized in logical sections matching the research workflow.
+   Open [classifier.ipynb](classifier.ipynb) to explore the code, reproduce experiments, and visualize results. The notebook is organized in logical sections matching the research workflow.
 
 ## Summary
 
